@@ -9,3 +9,15 @@ Video Demo
 --------
 
 https://www.youtube.com/watch?v=5b0wWZuTazA
+
+Android Dependencies Used
+--------
+
+com.android.support:appcompat-v7:24.2.1
+com.android.support:design:24.2.1
+com.android.support:cardview-v7:24.2.1
+com.squareup.retrofit2:retrofit:2.1.0
+com.squareup.retrofit2:converter-gson:2.1.0
+com.squareup.retrofit2:adapter-rxjava:2.1.0
+io.reactivex:rxjava:1.2.0
+io.reactivex:rxandroid:1.2.1
